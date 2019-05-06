@@ -1,0 +1,12 @@
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Debug\TrackingSystem.Model.dll.config
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Debug\TrackingSystem.Model.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Debug\TrackingSystem.Model.pdb
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Debug\EntityFramework.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Debug\EntityFramework.xml
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Debug\TrackingSystem.Model.csprojAssemblyReference.cache
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Debug\TrackingSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Debug\TrackingSystem.Model.csproj.CopyComplete
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Debug\TrackingSystem.Model.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Debug\TrackingSystem.Model.pdb

@@ -1,0 +1,15 @@
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\TrackingSystem.DAL.dll.config
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\TrackingSystem.DAL.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\TrackingSystem.DAL.pdb
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\EntityFramework.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\TrackingSystem.Model.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\TrackingSystem.Model.pdb
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\TrackingSystem.Model.dll.config
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\EntityFramework.xml
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\obj\Release\TrackingSystem.DAL.csprojAssemblyReference.cache
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\obj\Release\TrackingSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\obj\Release\TrackingSystem.DAL.csproj.CopyComplete
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\obj\Release\TrackingSystem.DAL.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.DAL\obj\Release\TrackingSystem.DAL.pdb

@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "VehiclesView";
+}
+
+<h2>VehiclesView</h2>
+<script>
+    $.ajax({
+        url: '/Vehicle/GetAllVehicle',
+        type: 'POST',
+        dataType: 'json',
+        success: function (result) {
+            console.log(result)
+        }
+    })
+</script>
+

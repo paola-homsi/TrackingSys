@@ -1,0 +1,12 @@
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Release\TrackingSystem.Model.dll.config
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Release\TrackingSystem.Model.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Release\TrackingSystem.Model.pdb
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Release\EntityFramework.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Release\EntityFramework.xml
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Release\TrackingSystem.Model.csprojAssemblyReference.cache
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Release\TrackingSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Release\TrackingSystem.Model.csproj.CopyComplete
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Release\TrackingSystem.Model.dll
+C:\Users\Paula\Source\Repos\TrackingSystem\TrackingSystem.Model\obj\Release\TrackingSystem.Model.pdb
